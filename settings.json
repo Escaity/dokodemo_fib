@@ -1,0 +1,50 @@
+{
+  "hotkey": "f",
+  "levels": [
+    {
+      "enabled": true,
+      "level": 0.0,
+      "color": "#808080"
+    },
+    {
+      "enabled": true,
+      "level": 0.214,
+      "color": "#ff0000"
+    },
+    {
+      "enabled": true,
+      "level": 0.382,
+      "color": "#adff2f"
+    },
+    {
+      "enabled": true,
+      "level": 0.5,
+      "color": "#00ff00"
+    },
+    {
+      "enabled": true,
+      "level": 0.618,
+      "color": "#20b2aa"
+    },
+    {
+      "enabled": true,
+      "level": 0.786,
+      "color": "#00008b"
+    },
+    {
+      "enabled": true,
+      "level": 1.0,
+      "color": "#808080"
+    },
+    {
+      "enabled": false,
+      "level": 1.618,
+      "color": "#4b0082"
+    },
+    {
+      "enabled": false,
+      "level": 2.0,
+      "color": "#df22ff"
+    }
+  ]
+}
